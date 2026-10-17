@@ -17,6 +17,22 @@ Telco Customer Churn dataset from Kaggle, 7,000+ customer records covering contr
 - The business is losing high-value customers too early, not low-value ones.
 
 ## Dashboard
+**Overview:** 7,043 customers, 26.54% churn, $47.79K monthly revenue at risk.
+<img width="800" alt="Overview dashboard" src="https://github.com/user-attachments/assets/f08181b0-a47a-4d92-8548-991c4c240de5" />
+
+**Churn Drivers:** Month-to-month contracts churn at 42.7% vs 2.8% for two-year contracts (shown rounded on the dashboard as 0.43 vs 0.03).
+<img width="800" alt="Churn drivers dashboard" src="https://github.com/user-attachments/assets/323b4545-7c1a-47b6-8b88-0d0eb74dc447" />
+
+**Segmentation:** Churn rate and customer counts by senior citizen, dependents, partner and tenure.
+<img width="800" alt="Segmentation" src="https://github.com/user-attachments/assets/b4617ad3-7662-4e9d-94ec-fb5a01654203" />
+
+**Revenue Impact:** Churned revenue by tech support, payment method, contract and internet service.
+<img width="800"  alt="Revenue Impact" src="https://github.com/user-attachments/assets/b1c44b96-e740-42d2-9953-605b6d32346f" />
+
+970 high-risk customers, $47.79K monthly revenue at risk and the customer-level watchlist.
+<img width="800"  alt="At Risk Watchlist" src="https://github.com/user-attachments/assets/530c2d47-ce30-4468-9722-d59795cd7086" />
+
+
 
 ## Repository contents
 - `01_clean_data NEW PROJECT TELECOM.py`: data cleaning and feature engineering
