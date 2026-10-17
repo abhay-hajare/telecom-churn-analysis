@@ -18,7 +18,7 @@ Telco Customer Churn dataset from Kaggle, 7,000+ customer records covering contr
 
 ## Dashboard
 **Overview:** 7,043 customers, 26.54% churn, $47.79K monthly revenue at risk.
-<img width="800" alt="Overview dashboard" src="https://github.com/user-attachments/assets/f08181b0-a47a-4d92-8548-991c4c240de5" />
+<img width="800" alt="Overview" src="https://github.com/user-attachments/assets/9b7e96e7-c03a-4ce5-92ef-c354138efe2b" />
 
 **Churn Drivers:** Month-to-month contracts churn at 42.7% vs 2.8% for two-year contracts (shown rounded on the dashboard as 0.43 vs 0.03).
 <img width="800" alt="Churn drivers dashboard" src="https://github.com/user-attachments/assets/323b4545-7c1a-47b6-8b88-0d0eb74dc447" />
